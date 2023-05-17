@@ -1,0 +1,41 @@
+{
+    "name": "bloodline7/retro",
+    "description": ":package_description",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Author Name",
+            "email": "author@email.com",
+            "homepage": "http://author.com"
+        }
+    ],
+    "homepage": "https://github.com/bloodline7/retro",
+    "keywords": ["Laravel", "Retro"],
+    "require": {
+        "illuminate/support": "~9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bloodline7\\Retro\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bloodline7\\Retro\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bloodline7\\Retro\\RetroServiceProvider"
+            ],
+            "aliases": {
+                "Retro": "Bloodline7\\Retro\\Facades\\Retro"
+            }
+        }
+    }
+}

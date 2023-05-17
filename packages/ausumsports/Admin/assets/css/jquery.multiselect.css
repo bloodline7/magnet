@@ -1,0 +1,149 @@
+.multi-select-container {
+    display: inline-block;
+    position: relative;
+    word-wrap: normal;
+    width: 100%;
+}
+
+.multi-select-menu {
+    position: absolute;
+    left: 0;
+    top: 3rem;
+
+    z-index: 1;
+    float: left;
+
+    width: 100% !important;
+    height: auto !important;
+    overflow: auto !important;
+    max-height: 500px !important;
+
+    background: rgba(0, 0, 0, 0.81);
+    margin: 1em 0 3.5rem 0;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20px);
+    border-radius: 0.5rem;
+    display: none;
+}
+
+.multi-select-menuitem {
+    display: block;
+    font-size: 0.875em;
+    padding: 0.6em 1em 0.6em 30px;
+    white-space: nowrap;
+
+}
+
+
+.multi-select-menuitem--titled:before {
+    display: block;
+    font-weight: bold;
+    content: attr(data-group-title);
+    margin: 0 0 0.25em -20px;
+}
+
+.multi-select-menuitem--titledsr:before {
+    display: block;
+    font-weight: bold;
+    content: attr(data-group-title);
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.multi-select-menuitem + .multi-select-menuitem {
+    padding-top: 0;
+}
+
+.multi-select-presets {
+    border-bottom: 1px solid #ddd;
+}
+
+.multi-select-menuitem input {
+    position: absolute;
+    margin-top: 0.25em;
+    margin-left: -20px;
+    border-radius: 0.25em;
+
+    width: 1em;
+    height: 1em;
+    margin-top: 0.25em;
+    vertical-align: top;
+    background-color: rgba(255, 255, 255, 0.3);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-print-color-adjust: exact;
+
+}
+
+.multi-select-menuitem input:checked {
+    background-image : url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e");
+
+    background-color: #e83283;
+    border-color: #e83283;
+}
+
+.multi-select-button {
+    display: inline-block;
+    font-size: 0.875em;
+    padding: 1rem 1.5rem;
+
+    padding-top: 1.625rem;
+    padding-bottom: 0.625rem;
+
+
+    max-width: 100%;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: -0.5em;
+    background-color: transparent;
+    border: 1px solid #aaa;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    cursor: default;
+}
+
+
+.multi-select-button:after {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0.4em 0.4em 0 0.4em;
+    border-color: #999 transparent transparent transparent;
+    margin-left: 0.4em;
+    vertical-align: 0.1em;
+}
+
+.multi-select-container--open .multi-select-menu {
+    display: block;
+}
+
+.multi-select-container--open .multi-select-button:after {
+    border-width: 0 0.4em 0.4em 0.4em;
+    border-color: transparent transparent #999 transparent;
+}
+
+.multi-select-container--positioned .multi-select-menu {
+    /* Avoid border/padding on menu messing with JavaScript width calculation */
+    box-sizing: border-box;
+}
+
+.multi-select-container--positioned .multi-select-menu label {
+    /* Allow labels to line wrap when menu is artificially narrowed */
+    white-space: normal;
+}

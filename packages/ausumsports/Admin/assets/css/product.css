@@ -1,0 +1,53 @@
+#searchSite input[type=submit] {
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+div.searchResult.scrollbar div.card-text {
+  max-height: 400px;
+  overflow: auto;
+  box-shadow: 10px 8px 20px 5px rgba(0, 0, 0, 0.47);
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 0.5rem;
+}
+div.searchResult.scrollbar div.card-text::-webkit-scrollbar {
+  width: 7px;
+}
+div.searchResult.scrollbar div.card-text::-webkit-scrollbar-thumb {
+  background-color: rgba(234, 233, 233, 0.24);
+  border-radius: 5px;
+}
+div.searchResult.scrollbar div.card-text::-webkit-scrollbar-track {
+  background-color: rgba(24, 24, 24, 0.12);
+  border-radius: 5px;
+}
+div.searchResult div.product-box {
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 10px 10px 20px -3px rgba(0, 0, 0, 0.3);
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.3);
+  color: #1a1a24;
+  margin: 20px;
+}
+div.searchResult div.product-box .title {
+  margin-top: 5px;
+  font-size: smaller;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+div.searchResult div.product-box .title:hover {
+  overflow: visible;
+  white-space: break-spaces;
+}
+div.searchResult div.product-box .price {
+  margin-top: 5px;
+  color: #900;
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/*# sourceMappingURL=product.css.map */

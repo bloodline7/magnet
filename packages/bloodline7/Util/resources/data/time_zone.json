@@ -1,0 +1,2370 @@
+[  
+    {  
+       "ko":"아비장, 코트디부아르",
+       "code":"Africa/Abidjan"
+    },
+    {  
+       "ko":"아크라, 가나",
+       "code":"Africa/Accra"
+    },
+    {  
+       "ko":"아디스아바바, 에티오피아",
+       "code":"Africa/Addis_Ababa"
+    },
+    {  
+       "ko":"알제, 알제리",
+       "code":"Africa/Algiers"
+    },
+    {  
+       "ko":"아스마라, 에리트레아",
+       "code":"Africa/Asmara"
+    },
+    {  
+       "ko":"아스마라, 에리트레아",
+       "code":"Africa/Asmera"
+    },
+    {  
+       "ko":"바마코, 말리",
+       "code":"Africa/Bamako"
+    },
+    {  
+       "ko":"방기, 중앙아프리카공화국",
+       "code":"Africa/Bangui"
+    },
+    {  
+       "ko":"반줄, 감비아",
+       "code":"Africa/Banjul"
+    },
+    {  
+       "ko":"비사우, 기니비사우",
+       "code":"Africa/Bissau"
+    },
+    {  
+       "ko":"블랜타이어, 말라위",
+       "code":"Africa/Blantyre"
+    },
+    {  
+       "ko":"브라자빌, 콩고",
+       "code":"Africa/Brazzaville"
+    },
+    {  
+       "ko":"부줌부라, 부룬디",
+       "code":"Africa/Bujumbura"
+    },
+    {  
+       "ko":"카이로, 이집트",
+       "code":"Africa/Cairo"
+    },
+    {  
+       "ko":"카사블랑카, 모로코",
+       "code":"Africa/Casablanca"
+    },
+    {  
+       "ko":"세우타, 모로코",
+       "code":"Africa/Ceuta"
+    },
+    {  
+       "ko":"코나크리, 기니",
+       "code":"Africa/Conakry"
+    },
+    {  
+       "ko":"다카르, 세네갈",
+       "code":"Africa/Dakar"
+    },
+    {  
+       "ko":"다르에스살람, 탄자니아",
+       "code":"Africa/Dar_es_Salaam"
+    },
+    {  
+       "ko":"지부티, 지부티 공화국",
+       "code":"Africa/Djibouti"
+    },
+    {  
+       "ko":"두알라, 카메룬",
+       "code":"Africa/Douala"
+    },
+    {  
+       "ko":"엘 아이운, 서사하라",
+       "code":"Africa/El_Aaiun"
+    },
+    {  
+       "ko":"프리타운, 시에라리온",
+       "code":"Africa/Freetown"
+    },
+    {  
+       "ko":"가보로네, 보츠와나",
+       "code":"Africa/Gaborone"
+    },
+    {  
+       "ko":"하라레, 짐바브웨",
+       "code":"Africa/Harare"
+    },
+    {  
+       "ko":"요하네스버그, 남아프리카공화국",
+       "code":"Africa/Johannesburg"
+    },
+    {  
+       "ko":"주바, 수단",
+       "code":"Africa/Juba"
+    },
+    {  
+       "ko":"캄팔라, 우간다",
+       "code":"Africa/Kampala"
+    },
+    {  
+       "ko":"카르툼, 수단",
+       "code":"Africa/Khartoum"
+    },
+    {  
+       "ko":"키갈리, 르완다",
+       "code":"Africa/Kigali"
+    },
+    {  
+       "ko":"킨샤사, 콩고민주공화국",
+       "code":"Africa/Kinshasa"
+    },
+    {  
+       "ko":"라고스, 나이지리아",
+       "code":"Africa/Lagos"
+    },
+    {  
+       "ko":"리브르빌, 가봉",
+       "code":"Africa/Libreville"
+    },
+    {  
+       "ko":"로메, 토고",
+       "code":"Africa/Lome"
+    },
+    {  
+       "ko":"루안다, 앙골라",
+       "code":"Africa/Luanda"
+    },
+    {  
+       "ko":"루붐바시, 콩고민주공화국",
+       "code":"Africa/Lubumbashi"
+    },
+    {  
+       "ko":"루사카, 잠비아",
+       "code":"Africa/Lusaka"
+    },
+    {  
+       "ko":"말라보, 기니",
+       "code":"Africa/Malabo"
+    },
+    {  
+       "ko":"마푸투, 모잠비크",
+       "code":"Africa/Maputo"
+    },
+    {  
+       "ko":"마세루, 레소토",
+       "code":"Africa/Maseru"
+    },
+    {  
+       "ko":"음바바네, 에스와티니",
+       "code":"Africa/Mbabane"
+    },
+    {  
+       "ko":"모가디슈, 소말리아",
+       "code":"Africa/Mogadishu"
+    },
+    {  
+       "ko":"몬로비아, 라이베리아",
+       "code":"Africa/Monrovia"
+    },
+    {  
+       "ko":"나이로비, 케냐",
+       "code":"Africa/Nairobi"
+    },
+    {  
+       "ko":"은자메나, 차드 공화국",
+       "code":"Africa/Ndjamena"
+    },
+    {  
+       "ko":"니아메, 니제르",
+       "code":"Africa/Niamey"
+    },
+    {  
+       "ko":"누악쇼트, 모리타니",
+       "code":"Africa/Nouakchott"
+    },
+    {  
+       "ko":"와가두구, 부르키나파소",
+       "code":"Africa/Ouagadougou"
+    },
+    {  
+       "ko":"포르토노보, 베냉",
+       "code":"Africa/Porto-Novo"
+    },
+    {  
+       "ko":"상투메, 상투메프린시페",
+       "code":"Africa/Sao_Tome"
+    },
+    {  
+       "ko":"팀북투, 말리",
+       "code":"Africa/Timbuktu"
+    },
+    {  
+       "ko":"트리폴리, 리비아",
+       "code":"Africa/Tripoli"
+    },
+    {  
+       "ko":"튀니스, 튀니지",
+       "code":"Africa/Tunis"
+    },
+    {  
+       "ko":"빈트후크, 나미비아",
+       "code":"Africa/Windhoek"
+    },
+    {  
+       "ko":"에이닥크, 미국",
+       "code":"America/Adak"
+    },
+    {  
+       "ko":"앵커리지, 미국",
+       "code":"America/Anchorage"
+    },
+    {  
+       "ko":"앵귈라, 영국",
+       "code":"America/Anguilla"
+    },
+    {  
+       "ko":"안티구아, 과테말라",
+       "code":"America/Antigua"
+    },
+    {  
+       "ko":"아라구아이나, 브라질",
+       "code":"America/Araguaina"
+    },
+    {  
+       "ko":"부에노스아이레스, 아르헨티나",
+       "code":"America/Argentina/Buenos_Aires"
+    },
+    {  
+       "ko":"카타마르카, 아르헨티나",
+       "code":"America/Argentina/Catamarca"
+    },
+    {  
+       "ko":"코모도로리바다비아, 아르헨티나",
+       "code":"America/Argentina/ComodRivadavia"
+    },
+    {  
+       "ko":"코르도바, 아르헨티나",
+       "code":"America/Argentina/Cordoba"
+    },
+    {  
+       "ko":"후후이, 아르헨티나",
+       "code":"America/Argentina/Jujuy"
+    },
+    {  
+       "ko":"라리오하, 아르헨티나",
+       "code":"America/Argentina/La_Rioja"
+    },
+    {  
+       "ko":"멘도사, 아르헨티나",
+       "code":"America/Argentina/Mendoza"
+    },
+    {  
+       "ko":"리오가예고스, 아르헨티나",
+       "code":"America/Argentina/Rio_Gallegos"
+    },
+    {  
+       "ko":"살타, 아르헨티나",
+       "code":"America/Argentina/Salta"
+    },
+    {  
+       "ko":"산후안, 아르헨티나",
+       "code":"America/Argentina/San_Juan"
+    },
+    {  
+       "ko":"산루이스, 아르헨티나",
+       "code":"America/Argentina/San_Luis"
+    },
+    {  
+       "ko":"산미겔데투쿠만, 아르헨티나",
+       "code":"America/Argentina/Tucuman"
+    },
+    {  
+       "ko":"우수아이아, 아르헨티나",
+       "code":"America/Argentina/Ushuaia"
+    },
+    {  
+       "ko":"오란헤스타드, 아루바",
+       "code":"America/Aruba"
+    },
+    {  
+       "ko":"아순시온, 파라과이",
+       "code":"America/Asuncion"
+    },
+    {  
+       "ko":"아티코칸, 캐나다",
+       "code":"America/Atikokan"
+    },
+    {  
+       "ko":"악타우, 카자흐스탄",
+       "code":"America/Atka"
+    },
+    {  
+       "ko":"바이아, 브라질",
+       "code":"America/Bahia"
+    },
+    {  
+       "ko":"반데라스만, 멕시코",
+       "code":"America/Bahia_Banderas"
+    },
+    {  
+       "ko":"브리지타운, 바베이도스",
+       "code":"America/Barbados"
+    },
+    {  
+       "ko":"벨렘, 브라질",
+       "code":"America/Belem"
+    },
+    {  
+       "ko":"벨리즈 시티, 벨리즈",
+       "code":"America/Belize"
+    },
+    {  
+       "ko":"블랑사브론, 캐나다",
+       "code":"America/Blanc-Sablon"
+    },
+    {  
+       "ko":"보아비스타, 브라질",
+       "code":"America/Boa_Vista"
+    },
+    {  
+       "ko":"보고타, 콜롬비아",
+       "code":"America/Bogota"
+    },
+    {  
+       "ko":"보이시, 미국",
+       "code":"America/Boise"
+    },
+    {  
+       "ko":"부에노스아이레스, 아르헨티나",
+       "code":"America/Buenos_Aires"
+    },
+    {  
+       "ko":"캠브리지베이, 캐나다",
+       "code":"America/Cambridge_Bay"
+    },
+    {  
+       "ko":"캄푸그란데, 브라질",
+       "code":"America/Campo_Grande"
+    },
+    {  
+       "ko":"칸쿤, 멕시코",
+       "code":"America/Cancun"
+    },
+    {  
+       "ko":"카라카스, 베네수엘라",
+       "code":"America/Caracas"
+    },
+    {  
+       "ko":"카타마르카, 아르헨티나",
+       "code":"America/Catamarca"
+    },
+    {  
+       "ko":"카옌, 프랑스령 기아나",
+       "code":"America/Cayenne"
+    },
+    {  
+       "ko":"조지 타운, 케이맨 제도",
+       "code":"America/Cayman"
+    },
+    {  
+       "ko":"시카고, 미국",
+       "code":"America/Chicago"
+    },
+    {  
+       "ko":"치와와, 멕시코",
+       "code":"America/Chihuahua"
+    },
+    {  
+       "ko":"코랄 하버, 캐나다",
+       "code":"America/Coral_Harbour"
+    },
+    {  
+       "ko":"코르도바, 아르헨티나",
+       "code":"America/Cordoba"
+    },
+    {  
+       "ko":"산호세, 코스타리카",
+       "code":"America/Costa_Rica"
+    },
+    {  
+       "ko":"크레스턴, 캐나다",
+       "code":"America/Creston"
+    },
+    {  
+       "ko":"쿠이아바, 브라질",
+       "code":"America/Cuiaba"
+    },
+    {  
+       "ko":"윌렘스타트, 쿠라사우",
+       "code":"America/Curacao"
+    },
+    {  
+       "ko":"덴마크샤븐, 그린란드",
+       "code":"America/Danmarkshavn"
+    },
+    {  
+       "ko":"도슨 시티, 캐나다",
+       "code":"America/Dawson"
+    },
+    {  
+       "ko":"도슨크리크, 캐나다",
+       "code":"America/Dawson_Creek"
+    },
+    {  
+       "ko":"덴버, 미국",
+       "code":"America/Denver"
+    },
+    {  
+       "ko":"디트로이트, 미국",
+       "code":"America/Detroit"
+    },
+    {  
+       "ko":"로조, 도미니카",
+       "code":"America/Dominica"
+    },
+    {  
+       "ko":"에드먼턴, 캐나다",
+       "code":"America/Edmonton"
+    },
+    {  
+       "ko":"아이루네페, 브라질",
+       "code":"America/Eirunepe"
+    },
+    {  
+       "ko":"산살바도르, 엘살바도르",
+       "code":"America/El_Salvador"
+    },
+    {  
+       "ko":"엔세나다, 멕시코",
+       "code":"America/Ensenada"
+    },
+    {  
+       "ko":"포트넬슨, 캐나다",
+       "code":"America/Fort_Nelson"
+    },
+    {  
+       "ko":"포트웨인, 미국",
+       "code":"America/Fort_Wayne"
+    },
+    {  
+       "ko":"포르탈레자, 브라질",
+       "code":"America/Fortaleza"
+    },
+    {  
+       "ko":"글레이스베이, 캐나다",
+       "code":"America/Glace_Bay"
+    },
+    {  
+       "ko":"고트호프, 그린란드",
+       "code":"America/Godthab"
+    },
+    {  
+       "ko":"해피 밸리-구즈베이, 캐나다",
+       "code":"America/Goose_Bay"
+    },
+    {  
+       "ko":"그랑 터크, 터크스 케이커스 제도",
+       "code":"America/Grand_Turk"
+    },
+    {  
+       "ko":"세인트조지스, 그레나다",
+       "code":"America/Grenada"
+    },
+    {  
+       "ko":"바스테르, 과들루프",
+       "code":"America/Guadeloupe"
+    },
+    {  
+       "ko":"과테말라 시티, 과테말라",
+       "code":"America/Guatemala"
+    },
+    {  
+       "ko":"과야킬, 에콰도르",
+       "code":"America/Guayaquil"
+    },
+    {  
+       "ko":"조지타운, 가이아나",
+       "code":"America/Guyana"
+    },
+    {  
+       "ko":"핼리팩스, 캐나다",
+       "code":"America/Halifax"
+    },
+    {  
+       "ko":"아바나, 쿠바",
+       "code":"America/Havana"
+    },
+    {  
+       "ko":"에르모시요, 멕시코",
+       "code":"America/Hermosillo"
+    },
+    {  
+       "ko":"인디애나폴리스, 미국",
+       "code":"America/Indiana/Indianapolis"
+    },
+    {  
+       "ko":"녹스, 미국",
+       "code":"America/Indiana/Knox"
+    },
+    {  
+       "ko":"마렝고, 미국",
+       "code":"America/Indiana/Marengo"
+    },
+    {  
+       "ko":"피터즈버그, 미국",
+       "code":"America/Indiana/Petersburg"
+    },
+    {  
+       "ko":"텔시티 미국",
+       "code":"America/Indiana/Tell_City"
+    },
+    {  
+       "ko":"비비, 미국",
+       "code":"America/Indiana/Vevay"
+    },
+    {  
+       "ko":"빙센, 미국",
+       "code":"America/Indiana/Vincennes"
+    },
+    {  
+       "ko":"워너맥, 미국",
+       "code":"America/Indiana/Winamac"
+    },
+    {  
+       "ko":"인디애나폴리스, 미국",
+       "code":"America/Indianapolis"
+    },
+    {  
+       "ko":"이누빅, 캐나다",
+       "code":"America/Inuvik"
+    },
+    {  
+       "ko":"이콸루이트, 캐나다",
+       "code":"America/Iqaluit"
+    },
+    {  
+       "ko":"킹스톤, 자메이카",
+       "code":"America/Jamaica"
+    },
+    {  
+       "ko":"산살바도르 데 후후이, 아르헨티나",
+       "code":"America/Jujuy"
+    },
+    {  
+       "ko":"주노, 미국",
+       "code":"America/Juneau"
+    },
+    {  
+       "ko":"루이빌, 미국",
+       "code":"America/Kentucky/Louisville"
+    },
+    {  
+       "ko":"몬티첼로, 미국",
+       "code":"America/Kentucky/Monticello"
+    },
+    {  
+       "ko":"녹스, 미국",
+       "code":"America/Knox_IN"
+    },
+    {  
+       "ko":"크라렌디즈크, 보네르",
+       "code":"America/Kralendijk"
+    },
+    {  
+       "ko":"라파스, 볼리비아",
+       "code":"America/La_Paz"
+    },
+    {  
+       "ko":"리마, 페루",
+       "code":"America/Lima"
+    },
+    {  
+       "ko":"로스앤젤레스, 미국",
+       "code":"America/Los_Angeles"
+    },
+    {  
+       "ko":"루이빌, 미국",
+       "code":"America/Louisville"
+    },
+    {  
+       "ko":"로워 프린스 쿼터, 신트마르텐",
+       "code":"America/Lower_Princes"
+    },
+    {  
+       "ko":"마세이오, 브라질",
+       "code":"America/Maceio"
+    },
+    {  
+       "ko":"마나과, 니카라과",
+       "code":"America/Managua"
+    },
+    {  
+       "ko":"마나우스, 브라질",
+       "code":"America/Manaus"
+    },
+    {  
+       "ko":"마리곳, 생마르탱",
+       "code":"America/Marigot"
+    },
+    {  
+       "ko":"포르 드 프랑스, 마르티니크",
+       "code":"America/Martinique"
+    },
+    {  
+       "ko":"마타모로스, 멕시코",
+       "code":"America/Matamoros"
+    },
+    {  
+       "ko":"마자트란, 멕시코",
+       "code":"America/Mazatlan"
+    },
+    {  
+       "ko":"멘도사, 아르헨티나",
+       "code":"America/Mendoza"
+    },
+    {  
+       "ko":"메노미니, 미국",
+       "code":"America/Menominee"
+    },
+    {  
+       "ko":"메리다, 멕시코",
+       "code":"America/Merida"
+    },
+    {  
+       "ko":"메틀라카틀라, 미국",
+       "code":"America/Metlakatla"
+    },
+    {  
+       "ko":"멕시코 시티, 멕시코",
+       "code":"America/Mexico_City"
+    },
+    {  
+       "ko":"생피에르, 생피에르 미클롱 제도",
+       "code":"America/Miquelon"
+    },
+    {  
+       "ko":"멍크턴, 캐나다",
+       "code":"America/Moncton"
+    },
+    {  
+       "ko":"몬테레이, 멕시코",
+       "code":"America/Monterrey"
+    },
+    {  
+       "ko":"몬테비데오, 우루과이",
+       "code":"America/Montevideo"
+    },
+    {  
+       "ko":"몬트리올, 캐나다",
+       "code":"America/Montreal"
+    },
+    {  
+       "ko":"플리머스, 몬트세라트섬",
+       "code":"America/Montserrat"
+    },
+    {  
+       "ko":"나소, 바하마",
+       "code":"America/Nassau"
+    },
+    {  
+       "ko":"뉴욕, 미국",
+       "code":"America/New_York"
+    },
+    {  
+       "ko":"니피곤, 캐나다",
+       "code":"America/Nipigon"
+    },
+    {  
+       "ko":"놈, 미국",
+       "code":"America/Nome"
+    },
+    {  
+       "ko":"페르난도 데 노로냐, 브라질",
+       "code":"America/Noronha"
+    },
+    {  
+       "ko":"뷸라, 미국",
+       "code":"America/North_Dakota/Beulah"
+    },
+    {  
+       "ko":"중앙, 미국",
+       "code":"America/North_Dakota/Center"
+    },
+    {  
+       "ko":"뉴 세일럼, 미국",
+       "code":"America/North_Dakota/New_Salem"
+    },
+    {  
+       "ko":"오히나가, 멕시코",
+       "code":"America/Ojinaga"
+    },
+    {  
+       "ko":"파나마 시티, 파나마",
+       "code":"America/Panama"
+    },
+    {  
+       "ko":"팽그너퉁, 캐나다",
+       "code":"America/Pangnirtung"
+    },
+    {  
+       "ko":"파라마리보, 수리남",
+       "code":"America/Paramaribo"
+    },
+    {  
+       "ko":"피닉스, 미국",
+       "code":"America/Phoenix"
+    },
+    {  
+       "ko":"포르토프랭스, 아이티",
+       "code":"America/Port-au-Prince"
+    },
+    {  
+       "ko":"포트오브스페인, 트리니다드 토바고",
+       "code":"America/Port_of_Spain"
+    },
+    {  
+       "ko":"포르토아크레, 브라질",
+       "code":"America/Porto_Acre"
+    },
+    {  
+       "ko":"포르토벨로, 브라질",
+       "code":"America/Porto_Velho"
+    },
+    {  
+       "ko":"산후안, 푸에르토리코",
+       "code":"America/Puerto_Rico"
+    },
+    {  
+       "ko":"푼타 아레나스, 칠레",
+       "code":"America/Punta_Arenas"
+    },
+    {  
+       "ko":"레이니리버, 캐나다",
+       "code":"America/Rainy_River"
+    },
+    {  
+       "ko":"랭킨인렛, 캐나다",
+       "code":"America/Rankin_Inlet"
+    },
+    {  
+       "ko":"레시페, 브라질",
+       "code":"America/Recife"
+    },
+    {  
+       "ko":"리자이나, 캐나다",
+       "code":"America/Regina"
+    },
+    {  
+       "ko":"레절룻, 캐나다",
+       "code":"America/Resolute"
+    },
+    {  
+       "ko":"리오 브랑코, 브라질",
+       "code":"America/Rio_Branco"
+    },
+    {  
+       "ko":"로사리오, 아르헨티나",
+       "code":"America/Rosario"
+    },
+    {  
+       "ko":"산타 이사벨, 멕시코",
+       "code":"America/Santa_Isabel"
+    },
+    {  
+       "ko":"산타렘, 브라질",
+       "code":"America/Santarem"
+    },
+    {  
+       "ko":"산티아고, 칠레",
+       "code":"America/Santiago"
+    },
+    {  
+       "ko":"산토도밍고, 도미니카 공화국",
+       "code":"America/Santo_Domingo"
+    },
+    {  
+       "ko":"상파울루, 브라질",
+       "code":"America/Sao_Paulo"
+    },
+    {  
+       "ko":"스코레스비순드, 그린란드",
+       "code":"America/Scoresbysund"
+    },
+    {  
+       "ko":"쉽락, 멕시코",
+       "code":"America/Shiprock"
+    },
+    {  
+       "ko":"시트카, 미국",
+       "code":"America/Sitka"
+    },
+    {  
+       "ko":"구스타비아, 생 바르텔르미",
+       "code":"America/St_Barthelemy"
+    },
+    {  
+       "ko":"세인트존스, 캐나다",
+       "code":"America/St_Johns"
+    },
+    {  
+       "ko":"바스테르, 세인트 키츠 네비스",
+       "code":"America/St_Kitts"
+    },
+    {  
+       "ko":"캐스트리스, 세인트 루시아",
+       "code":"America/St_Lucia"
+    },
+    {  
+       "ko":"세인트 토마스, 캐나다",
+       "code":"America/St_Thomas"
+    },
+    {  
+       "ko":"킹스타운, 세인트 빈센트 그레나딘",
+       "code":"America/St_Vincent"
+    },
+    {  
+       "ko":"스위프트 커렌트, 캐나다",
+       "code":"America/Swift_Current"
+    },
+    {  
+       "ko":"테구시갈파, 온두라스",
+       "code":"America/Tegucigalpa"
+    },
+    {  
+       "ko":"카나크, 그린란드",
+       "code":"America/Thule"
+    },
+    {  
+       "ko":"선더베이, 캐나다",
+       "code":"America/Thunder_Bay"
+    },
+    {  
+       "ko":"티후아나, 멕시코",
+       "code":"America/Tijuana"
+    },
+    {  
+       "ko":"토론토, 캐나다",
+       "code":"America/Toronto"
+    },
+    {  
+       "ko":"토르톨라, 토르톨라",
+       "code":"America/Tortola"
+    },
+    {  
+       "ko":"밴쿠버, 캐나다",
+       "code":"America/Vancouver"
+    },
+    {  
+       "ko":"버진아일랜드, 미국",
+       "code":"America/Virgin"
+    },
+    {  
+       "ko":"화이트호스, 캐나다",
+       "code":"America/Whitehorse"
+    },
+    {  
+       "ko":"위니펙, 캐나다",
+       "code":"America/Winnipeg"
+    },
+    {  
+       "ko":"야쿠탓, 미국",
+       "code":"America/Yakutat"
+    },
+    {  
+       "ko":"옐로나이프, 캐나다",
+       "code":"America/Yellowknife"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Casey"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Davis"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/DumontDUrville"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Macquarie"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Mawson"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/McMurdo"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Palmer"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Rothera"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/South_Pole"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Syowa"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Troll"
+    },
+    {  
+       "ko":"",
+       "code":"Antarctica/Vostok"
+    },
+    {  
+       "ko":"롱위에아르비엔, 스발바르 얀마옌 제도",
+       "code":"Arctic/Longyearbyen"
+    },
+    {  
+       "ko":"아덴, 예멘",
+       "code":"Asia/Aden"
+    },
+    {  
+       "ko":"알마티, 카자흐스탄",
+       "code":"Asia/Almaty"
+    },
+    {  
+       "ko":"암만, 요르단",
+       "code":"Asia/Amman"
+    },
+    {  
+       "ko":"아나디르, 러시아",
+       "code":"Asia/Anadyr"
+    },
+    {  
+       "ko":"악타우, 카자흐스탄",
+       "code":"Asia/Aqtau"
+    },
+    {  
+       "ko":"악토베, 카자흐스탄",
+       "code":"Asia/Aqtobe"
+    },
+    {  
+       "ko":"아슈하바트, 투르크메니스탄",
+       "code":"Asia/Ashgabat"
+    },
+    {  
+       "ko":"아슈하바트, 투르크메니스탄",
+       "code":"Asia/Ashkhabad"
+    },
+    {  
+       "ko":"아티라우, 카자흐스탄",
+       "code":"Asia/Atyrau"
+    },
+    {  
+       "ko":"바그다드, 이라크",
+       "code":"Asia/Baghdad"
+    },
+    {  
+       "ko":"바레인, 바레인",
+       "code":"Asia/Bahrain"
+    },
+    {  
+       "ko":"바쿠, 아제르바이잔",
+       "code":"Asia/Baku"
+    },
+    {  
+       "ko":"방콕, 태국",
+       "code":"Asia/Bangkok"
+    },
+    {  
+       "ko":"바르나울, 러시아",
+       "code":"Asia/Barnaul"
+    },
+    {  
+       "ko":"베이루트, 레바논",
+       "code":"Asia/Beirut"
+    },
+    {  
+       "ko":"비슈케크, 키르기스스탄",
+       "code":"Asia/Bishkek"
+    },
+    {  
+       "ko":"브루나이, 브루나이",
+       "code":"Asia/Brunei"
+    },
+    {  
+       "ko":"캘커타, 인도",
+       "code":"Asia/Calcutta"
+    },
+    {  
+       "ko":"치타, 러시아",
+       "code":"Asia/Chita"
+    },
+    {  
+       "ko":"처이발상, 몽골",
+       "code":"Asia/Choibalsan"
+    },
+    {  
+       "ko":"충칭, 중국",
+       "code":"Asia/Chongqing"
+    },
+    {  
+       "ko":"충칭, 중국",
+       "code":"Asia/Chungking"
+    },
+    {  
+       "ko":"콜롬보, 스리랑카",
+       "code":"Asia/Colombo"
+    },
+    {  
+       "ko":"다카, 방글라데시",
+       "code":"Asia/Dacca"
+    },
+    {  
+       "ko":"다마스커스, 시리아",
+       "code":"Asia/Damascus"
+    },
+    {  
+       "ko":"다카, 방글라데시",
+       "code":"Asia/Dhaka"
+    },
+    {  
+       "ko":"딜리, 동티모르",
+       "code":"Asia/Dili"
+    },
+    {  
+       "ko":"두바이, 아랍에미리트",
+       "code":"Asia/Dubai"
+    },
+    {  
+       "ko":"두샨베, 타지키스탄",
+       "code":"Asia/Dushanbe"
+    },
+    {  
+       "ko":"파마구스타, 파마구스타",
+       "code":"Asia/Famagusta"
+    },
+    {  
+       "ko":"가자지구, 가자지구",
+       "code":"Asia/Gaza"
+    },
+    {  
+       "ko":"하얼빈, 중국",
+       "code":"Asia/Harbin"
+    },
+    {  
+       "ko":"히브론, 히브론",
+       "code":"Asia/Hebron"
+    },
+    {  
+       "ko":"호치민, 베트남",
+       "code":"Asia/Ho_Chi_Minh"
+    },
+    {  
+       "ko":"홍콩, 홍콩",
+       "code":"Asia/Hong_Kong"
+    },
+    {  
+       "ko":"홉드, 몽골",
+       "code":"Asia/Hovd"
+    },
+    {  
+       "ko":"이르쿠츠크, 러시아",
+       "code":"Asia/Irkutsk"
+    },
+    {  
+       "ko":"이스탄불, 터키",
+       "code":"Asia/Istanbul"
+    },
+    {  
+       "ko":"자카르타라야, 인도네시아",
+       "code":"Asia/Jakarta"
+    },
+    {  
+       "ko":"자야푸라, 인도네시아",
+       "code":"Asia/Jayapura"
+    },
+    {  
+       "ko":"예루살렘, 이스라엘",
+       "code":"Asia/Jerusalem"
+    },
+    {  
+       "ko":"카불, 아프가니스탄",
+       "code":"Asia/Kabul"
+    },
+    {  
+       "ko":"캄차카, 러시아",
+       "code":"Asia/Kamchatka"
+    },
+    {  
+       "ko":"카라치, 파키스탄",
+       "code":"Asia/Karachi"
+    },
+    {  
+       "ko":"카스 지구, 중국",
+       "code":"Asia/Kashgar"
+    },
+    {  
+       "ko":"카트만두, 네팔",
+       "code":"Asia/Kathmandu"
+    },
+    {  
+       "ko":"카트만두, 네팔",
+       "code":"Asia/Katmandu"
+    },
+    {  
+       "ko":"한디가, 러시아",
+       "code":"Asia/Khandyga"
+    },
+    {  
+       "ko":"캘커타, 인도",
+       "code":"Asia/Kolkata"
+    },
+    {  
+       "ko":"크라스노야르스크, 러시아",
+       "code":"Asia/Krasnoyarsk"
+    },
+    {  
+       "ko":"쿠알라룸푸르, 말레이시아",
+       "code":"Asia/Kuala_Lumpur"
+    },
+    {  
+       "ko":"쿠칭, 말레이시아",
+       "code":"Asia/Kuching"
+    },
+    {  
+       "ko":"쿠웨이트, 쿠웨이트",
+       "code":"Asia/Kuwait"
+    },
+    {  
+       "ko":"마카오, 마카오",
+       "code":"Asia/Macao"
+    },
+    {  
+       "ko":"마카오, 마카오",
+       "code":"Asia/Macau"
+    },
+    {  
+       "ko":"마가단, 러시아",
+       "code":"Asia/Magadan"
+    },
+    {  
+       "ko":"마사카르, 인도네시아",
+       "code":"Asia/Makassar"
+    },
+    {  
+       "ko":"마닐라, 필리핀",
+       "code":"Asia/Manila"
+    },
+    {  
+       "ko":"무스카트, 오만",
+       "code":"Asia/Muscat"
+    },
+    {  
+       "ko":"니코시아, 키프로스",
+       "code":"Asia/Nicosia"
+    },
+    {  
+       "ko":"노보크즈네크, 러시아",
+       "code":"Asia/Novokuznetsk"
+    },
+    {  
+       "ko":"노보시비르스크, 러시아",
+       "code":"Asia/Novosibirsk"
+    },
+    {  
+       "ko":"옴스크, 러시아",
+       "code":"Asia/Omsk"
+    },
+    {  
+       "ko":"오랄, 카자흐스탄",
+       "code":"Asia/Oral"
+    },
+    {  
+       "ko":"프놈펜, 캄보디아",
+       "code":"Asia/Phnom_Penh"
+    },
+    {  
+       "ko":"폰티아낙, 인도네시아",
+       "code":"Asia/Pontianak"
+    },
+    {  
+       "ko":"평양, 조선민주주의인민공화국",
+       "code":"Asia/Pyongyang"
+    },
+    {  
+       "ko":"카타르, 카타르",
+       "code":"Asia/Qatar"
+    },
+    {  
+       "ko":"키질로르다, 카자흐스탄",
+       "code":"Asia/Qyzylorda"
+    },
+    {  
+       "ko":"양곤, 미얀마",
+       "code":"Asia/Rangoon"
+    },
+    {  
+       "ko":"리야드, 사우디아라비아",
+       "code":"Asia/Riyadh"
+    },
+    {  
+       "ko":"호치민, 베트남",
+       "code":"Asia/Saigon"
+    },
+    {  
+       "ko":"사할린 섬, 러시아",
+       "code":"Asia/Sakhalin"
+    },
+    {  
+       "ko":"사마르칸트, 우즈베키스탄",
+       "code":"Asia/Samarkand"
+    },
+    {  
+       "ko":"서울, 대한민국",
+       "code":"Asia/Seoul"
+    },
+    {  
+       "ko":"상하이, 중국",
+       "code":"Asia/Shanghai"
+    },
+    {  
+       "ko":"싱가포르, 중국",
+       "code":"Asia/Singapore"
+    },
+    {  
+       "ko":"스레드네콜림스크, 러시아",
+       "code":"Asia/Srednekolymsk"
+    },
+    {  
+       "ko":"타이베이, 대만",
+       "code":"Asia/Taipei"
+    },
+    {  
+       "ko":"타슈켄트, 우즈베키스탄",
+       "code":"Asia/Tashkent"
+    },
+    {  
+       "ko":"트빌리시, 조지아",
+       "code":"Asia/Tbilisi"
+    },
+    {  
+       "ko":"테헤란, 이란",
+       "code":"Asia/Tehran"
+    },
+    {  
+       "ko":"텔아비브, 이스라엘",
+       "code":"Asia/Tel_Aviv"
+    },
+    {  
+       "ko":"팀부, 부탄",
+       "code":"Asia/Thimbu"
+    },
+    {  
+       "ko":"팀부, 부탄",
+       "code":"Asia/Thimphu"
+    },
+    {  
+       "ko":"도쿄, 일본",
+       "code":"Asia/Tokyo"
+    },
+    {  
+       "ko":"톰스크, 러시아",
+       "code":"Asia/Tomsk"
+    },
+    {  
+       "ko":"마사카르, 인도네시아",
+       "code":"Asia/Ujung_Pandang"
+    },
+    {  
+       "ko":"울란바토르, 몽골",
+       "code":"Asia/Ulaanbaatar"
+    },
+    {  
+       "ko":"울란바토르, 몽골",
+       "code":"Asia/Ulan_Bator"
+    },
+    {  
+       "ko":"우루무치, 중국",
+       "code":"Asia/Urumqi"
+    },
+    {  
+       "ko":"우스네라, 러시아",
+       "code":"Asia/Ust-Nera"
+    },
+    {  
+       "ko":"비엔티안, 라오스",
+       "code":"Asia/Vientiane"
+    },
+    {  
+       "ko":"블라디보스크, 러시아",
+       "code":"Asia/Vladivostok"
+    },
+    {  
+       "ko":"야쿠츠크, 러시아",
+       "code":"Asia/Yakutsk"
+    },
+    {  
+       "ko":"양곤, 미얀마",
+       "code":"Asia/Yangon"
+    },
+    {  
+       "ko":"예카테린부르크, 러시아",
+       "code":"Asia/Yekaterinburg"
+    },
+    {  
+       "ko":"예레반, 아르메니아",
+       "code":"Asia/Yerevan"
+    },
+    {  
+       "ko":"아소르스, 포르투갈",
+       "code":"Atlantic/Azores"
+    },
+    {  
+       "ko":"버뮤다, 버뮤다",
+       "code":"Atlantic/Bermuda"
+    },
+    {  
+       "ko":"카나리, 스페인",
+       "code":"Atlantic/Canary"
+    },
+    {  
+       "ko":"카보베르데, 카보베르데",
+       "code":"Atlantic/Cape_Verde"
+    },
+    {  
+       "ko":"페로, 페로",
+       "code":"Atlantic/Faeroe"
+    },
+    {  
+       "ko":"페로, 페로",
+       "code":"Atlantic/Faroe"
+    },
+    {  
+       "ko":"얀마옌, 얀마옌",
+       "code":"Atlantic/Jan_Mayen"
+    },
+    {  
+       "ko":"마데이라, 포르투갈",
+       "code":"Atlantic/Madeira"
+    },
+    {  
+       "ko":"레이캬비크, 아이슬란드",
+       "code":"Atlantic/Reykjavik"
+    },
+    {  
+       "ko":"사우스조지아, 사우스조지아",
+       "code":"Atlantic/South_Georgia"
+    },
+    {  
+       "ko":"세인트헬레나, 세인트헬레나",
+       "code":"Atlantic/St_Helena"
+    },
+    {  
+       "ko":"스탠리, 포클랜드",
+       "code":"Atlantic/Stanley"
+    },
+    {  
+       "ko":"호주 중앙시, 호주",
+       "code":"Australia/ACT"
+    },
+    {  
+       "ko":"애들레이드, 호주",
+       "code":"Australia/Adelaide"
+    },
+    {  
+       "ko":"브리즈번, 호주",
+       "code":"Australia/Brisbane"
+    },
+    {  
+       "ko":"브로큰힐, 호주",
+       "code":"Australia/Broken_Hill"
+    },
+    {  
+       "ko":"캔버라, 호주",
+       "code":"Australia/Canberra"
+    },
+    {  
+       "ko":"커리, 호주",
+       "code":"Australia/Currie"
+    },
+    {  
+       "ko":"다윈, 호주",
+       "code":"Australia/Darwin"
+    },
+    {  
+       "ko":"유클라, 오스트레일리아",
+       "code":"Australia/Eucla"
+    },
+    {  
+       "ko":"호바트, 호주",
+       "code":"Australia/Hobart"
+    },
+    {  
+       "ko":"LHI, 호주",
+       "code":"Australia/LHI"
+    },
+    {  
+       "ko":"린데먼, 호주",
+       "code":"Australia/Lindeman"
+    },
+    {  
+       "ko":"로드하우, 호주",
+       "code":"Australia/Lord_Howe"
+    },
+    {  
+       "ko":"멜버른, 호주",
+       "code":"Australia/Melbourne"
+    },
+    {  
+       "ko":"뉴사우스웨일스, 호주",
+       "code":"Australia/NSW"
+    },
+    {  
+       "ko":"노스, 호주",
+       "code":"Australia/North"
+    },
+    {  
+       "ko":"퍼스, 호주",
+       "code":"Australia/Perth"
+    },
+    {  
+       "ko":"퀸즐랜드, 호주",
+       "code":"Australia/Queensland"
+    },
+    {  
+       "ko":"사우스, 호주",
+       "code":"Australia/South"
+    },
+    {  
+       "ko":"시드니, 호주",
+       "code":"Australia/Sydney"
+    },
+    {  
+       "ko":"태즈메이니아, 호주",
+       "code":"Australia/Tasmania"
+    },
+    {  
+       "ko":"빅토리아, 호주",
+       "code":"Australia/Victoria"
+    },
+    {  
+       "ko":"웨스트, 호주",
+       "code":"Australia/West"
+    },
+    {  
+       "ko":"얀코우니아, 호주",
+       "code":"Australia/Yancowinna"
+    },
+    {  
+       "ko":"아크레, 브라질",
+       "code":"Brazil/Acre"
+    },
+    {  
+       "ko":"데 노로냐, 브라질",
+       "code":"Brazil/DeNoronha"
+    },
+    {  
+       "ko":"이스트, 브라질",
+       "code":"Brazil/East"
+    },
+    {  
+       "ko":"웨스트, 브라질",
+       "code":"Brazil/West"
+    },
+    {  
+       "ko":"",
+       "code":"CET"
+    },
+    {  
+       "ko":"",
+       "code":"CST6CDT"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Atlantic"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Central"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Eastern"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Mountain"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Newfoundland"
+    },
+    {  
+       "ko":"",
+       "code":"Canada/Pacific"
+    },
+    {  
+       "ko":"서스캐처원, 캐나다",
+       "code":"Canada/Saskatchewan"
+    },
+    {  
+       "ko":"유콘, 캐나다",
+       "code":"Canada/Yukon"
+    },
+    {  
+       "ko":"콘티넨탈, 칠레",
+       "code":"Chile/Continental"
+    },
+    {  
+       "ko":"이스터 섬, 이스터 섬",
+       "code":"Chile/EasterIsland"
+    },
+    {  
+       "ko":"쿠바, 쿠바",
+       "code":"Cuba"
+    },
+    {  
+       "ko":"",
+       "code":"EET"
+    },
+    {  
+       "ko":"",
+       "code":"EST"
+    },
+    {  
+       "ko":"",
+       "code":"EST5EDT"
+    },
+    {  
+       "ko":"이집트, 이집트",
+       "code":"Egypt"
+    },
+    {  
+       "ko":"",
+       "code":"Eire"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+0"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+1"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+10"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+11"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+12"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+2"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+3"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+4"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+5"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+6"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+7"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+8"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT+9"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-0"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-1"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-10"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-11"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-12"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-13"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-14"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-2"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-3"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-4"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-5"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-6"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-7"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-8"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT-9"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/GMT0"
+    },
+    {  
+       "ko":"그리니치, 영국",
+       "code":"Etc/Greenwich"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/UCT"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/UTC"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/Universal"
+    },
+    {  
+       "ko":"",
+       "code":"Etc/Zulu"
+    },
+    {  
+       "ko":"암스테르담, 네덜란드",
+       "code":"Europe/Amsterdam"
+    },
+    {  
+       "ko":"안도라, 안도라",
+       "code":"Europe/Andorra"
+    },
+    {  
+       "ko":"아스트라한, 러시아",
+       "code":"Europe/Astrakhan"
+    },
+    {  
+       "ko":"아테네, 그리스",
+       "code":"Europe/Athens"
+    },
+    {  
+       "ko":"벨파스트, 영국",
+       "code":"Europe/Belfast"
+    },
+    {  
+       "ko":"베오그라드, 세르비아",
+       "code":"Europe/Belgrade"
+    },
+    {  
+       "ko":"베를린, 독일",
+       "code":"Europe/Berlin"
+    },
+    {  
+       "ko":"브라티슬라바, 슬로바키아",
+       "code":"Europe/Bratislava"
+    },
+    {  
+       "ko":"브뤼셀, 벨기에",
+       "code":"Europe/Brussels"
+    },
+    {  
+       "ko":"부쿠레슈티, 루마니아",
+       "code":"Europe/Bucharest"
+    },
+    {  
+       "ko":"부다페스트, 헝가리",
+       "code":"Europe/Budapest"
+    },
+    {  
+       "ko":"뷔징겐, 독일",
+       "code":"Europe/Busingen"
+    },
+    {  
+       "ko":"키시나우, 몰도바",
+       "code":"Europe/Chisinau"
+    },
+    {  
+       "ko":"코펜하겐, 덴마크",
+       "code":"Europe/Copenhagen"
+    },
+    {  
+       "ko":"더블린, 아일랜드",
+       "code":"Europe/Dublin"
+    },
+    {  
+       "ko":"지브롤터, 지브롤터",
+       "code":"Europe/Gibraltar"
+    },
+    {  
+       "ko":"건지, 건지",
+       "code":"Europe/Guernsey"
+    },
+    {  
+       "ko":"헬싱키, 핀란드",
+       "code":"Europe/Helsinki"
+    },
+    {  
+       "ko":"맨섬, 맨섬",
+       "code":"Europe/Isle_of_Man"
+    },
+    {  
+       "ko":"이스탄불, 터키",
+       "code":"Europe/Istanbul"
+    },
+    {  
+       "ko":"저지섬, 저지섬",
+       "code":"Europe/Jersey"
+    },
+    {  
+       "ko":"칼리닌그라드, 러시아",
+       "code":"Europe/Kaliningrad"
+    },
+    {  
+       "ko":"키예프, 우크라이나",
+       "code":"Europe/Kiev"
+    },
+    {  
+       "ko":"키로프, 러시아",
+       "code":"Europe/Kirov"
+    },
+    {  
+       "ko":"리스본, 포르투갈",
+       "code":"Europe/Lisbon"
+    },
+    {  
+       "ko":"류블랴나, 슬로베니아",
+       "code":"Europe/Ljubljana"
+    },
+    {  
+       "ko":"런던, 영국",
+       "code":"Europe/London"
+    },
+    {  
+       "ko":"룩셈부르크, 룩셈부르크",
+       "code":"Europe/Luxembourg"
+    },
+    {  
+       "ko":"마드리드, 스페인",
+       "code":"Europe/Madrid"
+    },
+    {  
+       "ko":"몰타, 몰타",
+       "code":"Europe/Malta"
+    },
+    {  
+       "ko":"마리에함, 올란드 제도",
+       "code":"Europe/Mariehamn"
+    },
+    {  
+       "ko":"민스크, 벨로루시",
+       "code":"Europe/Minsk"
+    },
+    {  
+       "ko":"모나코, 모나코",
+       "code":"Europe/Monaco"
+    },
+    {  
+       "ko":"모스크바, 러시아",
+       "code":"Europe/Moscow"
+    },
+    {  
+       "ko":"니코시아, 키프로스",
+       "code":"Europe/Nicosia"
+    },
+    {  
+       "ko":"오슬로, 노르웨이",
+       "code":"Europe/Oslo"
+    },
+    {  
+       "ko":"파리, 프랑스",
+       "code":"Europe/Paris"
+    },
+    {  
+       "ko":"포드고리차, 몬테네그로",
+       "code":"Europe/Podgorica"
+    },
+    {  
+       "ko":"프라하, 체코",
+       "code":"Europe/Prague"
+    },
+    {  
+       "ko":"리가, 라트비아",
+       "code":"Europe/Riga"
+    },
+    {  
+       "ko":"로마, 이탈리아",
+       "code":"Europe/Rome"
+    },
+    {  
+       "ko":"사마라, 러시아",
+       "code":"Europe/Samara"
+    },
+    {  
+       "ko":"산마리노, 산마리노",
+       "code":"Europe/San_Marino"
+    },
+    {  
+       "ko":"사라예보, 보스니아",
+       "code":"Europe/Sarajevo"
+    },
+    {  
+       "ko":"사라토브, 러시아",
+       "code":"Europe/Saratov"
+    },
+    {  
+       "ko":"심페로폴, 심페로폴",
+       "code":"Europe/Simferopol"
+    },
+    {  
+       "ko":"스코페, 마케도니아",
+       "code":"Europe/Skopje"
+    },
+    {  
+       "ko":"소피아, 불가리아",
+       "code":"Europe/Sofia"
+    },
+    {  
+       "ko":"스톡홀름, 스웨덴",
+       "code":"Europe/Stockholm"
+    },
+    {  
+       "ko":"탈린, 에스토니아",
+       "code":"Europe/Tallinn"
+    },
+    {  
+       "ko":"티라나, 알바니아",
+       "code":"Europe/Tirane"
+    },
+    {  
+       "ko":"티라스폴, 몰도바",
+       "code":"Europe/Tiraspol"
+    },
+    {  
+       "ko":"울랴노브스크, 러시아",
+       "code":"Europe/Ulyanovsk"
+    },
+    {  
+       "ko":"우즈호로드, 우크라이나",
+       "code":"Europe/Uzhgorod"
+    },
+    {  
+       "ko":"바두츠, 리히텐슈타인",
+       "code":"Europe/Vaduz"
+    },
+    {  
+       "ko":"바티칸, 바티칸",
+       "code":"Europe/Vatican"
+    },
+    {  
+       "ko":"비엔나, 오스트리아",
+       "code":"Europe/Vienna"
+    },
+    {  
+       "ko":"빌니우스, 리투아니아",
+       "code":"Europe/Vilnius"
+    },
+    {  
+       "ko":"볼고그라드, 러시아",
+       "code":"Europe/Volgograd"
+    },
+    {  
+       "ko":"바르샤바, 폴란드",
+       "code":"Europe/Warsaw"
+    },
+    {  
+       "ko":"자그레브, 크로아티아",
+       "code":"Europe/Zagreb"
+    },
+    {  
+       "ko":"자포리자, 우크라이나",
+       "code":"Europe/Zaporozhye"
+    },
+    {  
+       "ko":"취리히, 스위스",
+       "code":"Europe/Zurich"
+    },
+    {  
+       "ko":"",
+       "code":"GB"
+    },
+    {  
+       "ko":"",
+       "code":"GB-Eire"
+    },
+    {  
+       "ko":"",
+       "code":"GMT"
+    },
+    {  
+       "ko":"",
+       "code":"GMT+0"
+    },
+    {  
+       "ko":"",
+       "code":"GMT-0"
+    },
+    {  
+       "ko":"",
+       "code":"GMT0"
+    },
+    {  
+       "ko":"그리니치, 영국",
+       "code":"Greenwich"
+    },
+    {  
+       "ko":"",
+       "code":"HST"
+    },
+    {  
+       "ko":"홍콩, 홍콩",
+       "code":"Hongkong"
+    },
+    {  
+       "ko":"아이슬란드, 아이슬란드",
+       "code":"Iceland"
+    },
+    {  
+       "ko":"안타나나리보, 마다가스카르",
+       "code":"Indian/Antananarivo"
+    },
+    {  
+       "ko":"차고스 제도, 차고스 제도",
+       "code":"Indian/Chagos"
+    },
+    {  
+       "ko":"크리스마스섬, 크리스마스섬",
+       "code":"Indian/Christmas"
+    },
+    {  
+       "ko":"코코스 제도, 코코스 제도",
+       "code":"Indian/Cocos"
+    },
+    {  
+       "ko":"코모로, 코모로",
+       "code":"Indian/Comoro"
+    },
+    {  
+       "ko":"카르겔렌 제도, 카르겔렌 제도",
+       "code":"Indian/Kerguelen"
+    },
+    {  
+       "ko":"마헤, 인도",
+       "code":"Indian/Mahe"
+    },
+    {  
+       "ko":"몰디브, 몰디브",
+       "code":"Indian/Maldives"
+    },
+    {  
+       "ko":"모리셔스, 모리셔스",
+       "code":"Indian/Mauritius"
+    },
+    {  
+       "ko":"마요트, 마요트",
+       "code":"Indian/Mayotte"
+    },
+    {  
+       "ko":"레위니옹, 레위니옹",
+       "code":"Indian/Reunion"
+    },
+    {  
+       "ko":"이란, 이란",
+       "code":"Iran"
+    },
+    {  
+       "ko":"이스라엘, 이스라엘",
+       "code":"Israel"
+    },
+    {  
+       "ko":"자메이카, 자메이카",
+       "code":"Jamaica"
+    },
+    {  
+       "ko":"일본, 일본",
+       "code":"Japan"
+    },
+    {  
+       "ko":"콰잘레인 환초, 콰잘레인 환초",
+       "code":"Kwajalein"
+    },
+    {  
+       "ko":"리비아, 리비아",
+       "code":"Libya"
+    },
+    {  
+       "ko":"",
+       "code":"MET"
+    },
+    {  
+       "ko":"",
+       "code":"MST"
+    },
+    {  
+       "ko":"",
+       "code":"MST7MDT"
+    },
+    {  
+       "ko":"바하칼리포르니아노르테, 멕시코",
+       "code":"Mexico/BajaNorte"
+    },
+    {  
+       "ko":"바하칼리포르니아수르, 멕시코",
+       "code":"Mexico/BajaSur"
+    },
+    {  
+       "ko":"",
+       "code":"Mexico/General"
+    },
+    {  
+       "ko":"",
+       "code":"NZ"
+    },
+    {  
+       "ko":"",
+       "code":"NZ-CHAT"
+    },
+    {  
+       "ko":"",
+       "code":"Navajo"
+    },
+    {  
+       "ko":"",
+       "code":"PRC"
+    },
+    {  
+       "ko":"",
+       "code":"PST8PDT"
+    },
+    {  
+       "ko":"아피아, 사모아",
+       "code":"Pacific/Apia"
+    },
+    {  
+       "ko":"오클랜드, 뉴질랜드",
+       "code":"Pacific/Auckland"
+    },
+    {  
+       "ko":"부건빌, 파푸아뉴기니",
+       "code":"Pacific/Bougainville"
+    },
+    {  
+       "ko":"채텀, 영국",
+       "code":"Pacific/Chatham"
+    },
+    {  
+       "ko":"축 섬, 미크로네시아",
+       "code":"Pacific/Chuuk"
+    },
+    {  
+       "ko":"이스터 섬, 이스터 섬",
+       "code":"Pacific/Easter"
+    },
+    {  
+       "ko":"에파테, 에파테",
+       "code":"Pacific/Efate"
+    },
+    {  
+       "ko":"엔더버리 섬, 엔더버리 섬",
+       "code":"Pacific/Enderbury"
+    },
+    {  
+       "ko":"파카오포, 파카오포",
+       "code":"Pacific/Fakaofo"
+    },
+    {  
+       "ko":"피지, 피지",
+       "code":"Pacific/Fiji"
+    },
+    {  
+       "ko":"푸나푸티, 푸나푸티",
+       "code":"Pacific/Funafuti"
+    },
+    {  
+       "ko":"갈라파고스 제도, 갈라파고스 제도",
+       "code":"Pacific/Galapagos"
+    },
+    {  
+       "ko":"갬비어, 갬비어",
+       "code":"Pacific/Gambier"
+    },
+    {  
+       "ko":"과달카날 섬, 과달카날 섬",
+       "code":"Pacific/Guadalcanal"
+    },
+    {  
+       "ko":"괌, 괌",
+       "code":"Pacific/Guam"
+    },
+    {  
+       "ko":"호놀룰루, 미국",
+       "code":"Pacific/Honolulu"
+    },
+    {  
+       "ko":"존스턴, 미국",
+       "code":"Pacific/Johnston"
+    },
+    {  
+       "ko":"키리티마티, 키리티마티",
+       "code":"Pacific/Kiritimati"
+    },
+    {  
+       "ko":"코스라에 섬, 미크로네시아",
+       "code":"Pacific/Kosrae"
+    },
+    {  
+       "ko":"콰잘레인 환초, 콰잘레인 환초",
+       "code":"Pacific/Kwajalein"
+    },
+    {  
+       "ko":"마주로, 마주로",
+       "code":"Pacific/Majuro"
+    },
+    {  
+       "ko":"마흑끼스, 폴리네시아",
+       "code":"Pacific/Marquesas"
+    },
+    {  
+       "ko":"미드웨이 환초, 미드웨이 환초",
+       "code":"Pacific/Midway"
+    },
+    {  
+       "ko":"나우루, 나우루",
+       "code":"Pacific/Nauru"
+    },
+    {  
+       "ko":"니우에, 니우에",
+       "code":"Pacific/Niue"
+    },
+    {  
+       "ko":"노퍽, 미국",
+       "code":"Pacific/Norfolk"
+    },
+    {  
+       "ko":"누메아, 누벨칼레도니",
+       "code":"Pacific/Noumea"
+    },
+    {  
+       "ko":"아메리칸 사모아, 아메라칸 사모아",
+       "code":"Pacific/Pago_Pago"
+    },
+    {  
+       "ko":"팔라우, 팔라우",
+       "code":"Pacific/Palau"
+    },
+    {  
+       "ko":"핏케언, 핏케언",
+       "code":"Pacific/Pitcairn"
+    },
+    {  
+       "ko":"폰페이 섬, 폰페이 섬",
+       "code":"Pacific/Pohnpei"
+    },
+    {  
+       "ko":"폰페이 섬, 폰페이 섬",
+       "code":"Pacific/Ponape"
+    },
+    {  
+       "ko":"포트모르즈비, 파푸아뉴기니",
+       "code":"Pacific/Port_Moresby"
+    },
+    {  
+       "ko":"라로통카 섬, 라로통가 섬",
+       "code":"Pacific/Rarotonga"
+    },
+    {  
+       "ko":"사이판 섬, 사이판 섬",
+       "code":"Pacific/Saipan"
+    },
+    {  
+       "ko":"사모아, 사모아",
+       "code":"Pacific/Samoa"
+    },
+    {  
+       "ko":"타히티, 타히티",
+       "code":"Pacific/Tahiti"
+    },
+    {  
+       "ko":"타라와, 키리바시공화국",
+       "code":"Pacific/Tarawa"
+    },
+    {  
+       "ko":"통가타푸 섬, 통가타푸 섬",
+       "code":"Pacific/Tongatapu"
+    },
+    {  
+       "ko":"트루크 섬, 트루크 섬",
+       "code":"Pacific/Truk"
+    },
+    {  
+       "ko":"웨이크 섬, 웨이크 섬",
+       "code":"Pacific/Wake"
+    },
+    {  
+       "ko":"푸투나, 왈리스",
+       "code":"Pacific/Wallis"
+    },
+    {  
+       "ko":"야프, 미크로네시아",
+       "code":"Pacific/Yap"
+    },
+    {  
+       "ko":"폴란드, 폴란드",
+       "code":"Poland"
+    },
+    {  
+       "ko":"포르투갈, 포르투갈",
+       "code":"Portugal"
+    },
+    {  
+       "ko":"",
+       "code":"ROC"
+    },
+    {  
+       "ko":"",
+       "code":"ROK"
+    },
+    {  
+       "ko":"싱가포르, 싱가포르",
+       "code":"Singapore"
+    },
+    {  
+       "ko":"터키, 터키",
+       "code":"Turkey"
+    },
+    {  
+       "ko":"",
+       "code":"UCT"
+    },
+    {  
+       "ko":"알래스카, 미국",
+       "code":"US/Alaska"
+    },
+    {  
+       "ko":"알류샨, 미국",
+       "code":"US/Aleutian"
+    },
+    {  
+       "ko":"아리조나, 미국",
+       "code":"US/Arizona"
+    },
+    {  
+       "ko":"",
+       "code":"US/Central"
+    },
+    {  
+       "ko":"",
+       "code":"US/East-Indiana"
+    },
+    {  
+       "ko":"",
+       "code":"US/Eastern"
+    },
+    {  
+       "ko":"하와이, 미국",
+       "code":"US/Hawaii"
+    },
+    {  
+       "ko":"인디아나 스타크, 미국",
+       "code":"US/Indiana-Starke"
+    },
+    {  
+       "ko":"미시간, 미국",
+       "code":"US/Michigan"
+    },
+    {  
+       "ko":"",
+       "code":"US/Mountain"
+    },
+    {  
+       "ko":"",
+       "code":"US/Pacific"
+    },
+    {  
+       "ko":"",
+       "code":"US/Pacific-New"
+    },
+    {  
+       "ko":"",
+       "code":"US/Samoa"
+    },
+    {  
+       "ko":"",
+       "code":"UTC"
+    },
+    {  
+       "ko":"",
+       "code":"Universal"
+    },
+    {  
+       "ko":"",
+       "code":"W-SU"
+    },
+    {  
+       "ko":"",
+       "code":"WET"
+    },
+    {  
+       "ko":"",
+       "code":"Zulu"
+    }
+ ]

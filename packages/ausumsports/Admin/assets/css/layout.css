@@ -1,0 +1,134 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  min-height: calc(100vh - 40px);
+  background: linear-gradient(-35deg, #280000, #8e0238, #012744, #c7ce03);
+  background-size: 500% 500%;
+  animation: gradient 200s ease infinite;
+}
+body .datepicker-dropdown:after {
+  border-bottom: 6px solid rgba(255, 255, 255, 0.4);
+}
+body .datepicker table {
+  margin: 13px;
+}
+body .datepicker table td {
+  width: 33px;
+}
+body .datepicker table td.day:hover {
+  color: #000;
+}
+body select.form-control {
+  color: #cccccc;
+  outline: none;
+  border-radius: 2px;
+  background: transparent;
+}
+body select.form-control option {
+  background-color: #282828 !important;
+  border-bottom: solid 1px #00a65a !important;
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4) !important;
+}
+body.loading {
+  overflow: hidden;
+}
+body.terminal {
+  padding: 0 0 40vh 0;
+}
+body::-webkit-scrollbar {
+  width: 7px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.24);
+  border-radius: 5px;
+}
+body::-webkit-scrollbar-track {
+  background: linear-gradient(-35deg, #280000, #8e0238, #012744, #c7ce03);
+  background-size: 500% 100%;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+nav.navbar {
+  background: rgba(250, 250, 250, 0.2);
+  box-shadow: 10px 10px 20px -3px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+  border-radius: 0 0 10px 10px;
+}
+
+.jumbotron {
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 10px 10px 20px -3px rgba(0, 0, 0, 0.3);
+}
+
+ol.breadcrumb {
+  background: rgba(255, 255, 255, 0.2);
+  min-height: 50px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px -3px rgba(0, 0, 0, 0.3);
+}
+
+#console {
+  z-index: 1000;
+  position: fixed;
+  height: auto;
+  width: auto;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1em;
+  border-radius: 10px;
+  border-left: 1px solid rgba(0, 0, 0, 0.7);
+  border-top: 1px solid rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  box-shadow: 10px 10px 20px -3px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  top: 100%;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+#console .terminal {
+  height: calc(40vh - 43px);
+}
+#console .xterm-viewport {
+  overflow: auto;
+  border-radius: 8px;
+}
+#console .xterm-viewport::-webkit-scrollbar {
+  width: 7px;
+}
+#console .xterm-viewport::-webkit-scrollbar-thumb {
+  background-color: rgba(215, 216, 219, 0.24);
+  border-radius: 5px;
+}
+#console .xterm-viewport::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 5px;
+}
+#console #console-input {
+  position: absolute;
+  display: none;
+  height: 20px;
+  top: auto;
+  width: auto;
+  bottom: 40px;
+  left: 20px;
+  right: 20px;
+}
+#console #console-input input.form-control {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+/*# sourceMappingURL=layout.css.map */

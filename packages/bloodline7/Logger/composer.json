@@ -1,0 +1,45 @@
+{
+    "name": "bloodline7/logger",
+    "description": "Pretty Log",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bloodline",
+            "email": "bloodline.kr@gmail.com",
+            "homepage": "http://author.com"
+        }
+    ],
+    "homepage": "https://github.com/bloodline7/logger",
+    "keywords": ["Laravel", "Logger"],
+    "require": {
+        "illuminate/support": "~10",
+        "bramus/monolog-colored-line-formatter": "~3.1",
+        "monolog/monolog": "^3.3",
+        "predis/predis" : "^2.1",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bloodline7\\Logger\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bloodline7\\Logger\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bloodline7\\Logger\\LoggerServiceProvider"
+            ],
+            "aliases": {
+                "Logger": "Bloodline7\\Logger\\Facades\\Logger"
+            }
+        }
+    }
+}

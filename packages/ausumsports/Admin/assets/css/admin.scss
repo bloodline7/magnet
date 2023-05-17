@@ -1,0 +1,25 @@
+@import "_variables.scss";
+@import "bootstrap";
+
+$theme-colors: (
+    "primary": rgba(0, 116, 217, 0.58),
+    "danger": rgba(255, 65, 54, 0.52),
+    "success" : rgba(50, 210, 157, 0.54),
+    "warning" : rgba(255, 193, 7, 0.39),
+    "info" : rgba(57, 203, 251, 0.55),
+    "dark" : rgba(2, 2, 2, 0.52),
+    "light" : rgba(255, 255, 255, 0.6),
+    "active": rgba(245, 7, 78, 0.65),
+);
+
+@import "_bootswatch.scss";
+//@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "loading.scss";
+@import "tableControl.scss";
+@import "xterm";
+@import "product.scss";
+@import "bootstrap-datepicker.css";
+@import "jquery.multiselect.css";
+@import "dropzone.css";
+
+@import "layout.scss";
